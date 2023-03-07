@@ -1,4 +1,4 @@
-# Hi There, My name is Justin Ramirez  👋
+# Hi There, my name is Justin Ramirez  👋
 - 🔭 ___I’m currently working on my bachelors degree in Computer Science @ Georgia State University___ 🐱
 - 🌱 ___I’m currently learning more things than I can fit in my brain; mostly Java, Python, C and bash___ 🧠
 - 👯 ___I’m looking to collaborate on any open source projects I can contribute towards and possibly learn something___
