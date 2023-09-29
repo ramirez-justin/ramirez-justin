@@ -7,7 +7,11 @@
 # THINGS I'M LEARNING RIGHT NOW
 * ✨**PYTHON**✨
 
+* ✨**SQL**✨
+
 * ✨**DATA STUCTURES**✨: ___LINKED LISTS___ , ___TREES___ , ___STACKS___ , ___QUEUES___
+
+* ✨**DATA SCIENCE/ENGINEERING**✨: ___AIRFLOW___ , ___DBT___ , ___DEEPNOTE___ , ___AWS___ , ___SNOWFLAKE___ 
 
 * ✨**CYBER SECURITY**✨: ___KALI LINUX___ , ___SSH-KEYGEN___ , ___OPENSSL___ , ___JOHN THE RIPPER___
 
