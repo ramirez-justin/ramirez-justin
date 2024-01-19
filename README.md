@@ -15,7 +15,7 @@
 
 * ✨**CYBER SECURITY**✨: ___KALI LINUX___ , ___SSH-KEYGEN___ , ___OPENSSL___ , ___JOHN THE RIPPER___
 
-* ✨**Neovim & Lua**✨: ___mothership.nvim___
+* ✨**Neovim & Lua**✨: ***mothership.nvim***
 
 # Most of my work currently is done using my work account: ***https://github.com/justin-ramirez-gametime***
 <!--
