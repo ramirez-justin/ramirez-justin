@@ -15,9 +15,9 @@
 
 * ✨**CYBER SECURITY**✨: ___KALI LINUX___ , ___SSH-KEYGEN___ , ___OPENSSL___ , ___JOHN THE RIPPER___
 
-* ✨**Neovim & Lua**✨: ***mothership.nvim***
+* ✨**Neovim & Lua**✨: [mothership.nvim](https://github.com/ramirez-justin/mothership.nvim)
 
-# Most of my work currently is done using my work account: ***https://github.com/justin-ramirez-gametime***
+# Most of my work currently is done using my work account: [Justin Ramirez](https://github.com/justin-ramirez-gametime)
 <!--
 **ramirez-justin/ramirez-justin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
